@@ -8,3 +8,5 @@ Pull the project, go to the src directory in 3 distinct terminals, run: rmiregis
 ## How it works
 
 The client application invokes methods on the proxy object, RMI sends the request to the remote JVM. The return value is sent back to the proxy object and then to the client application.
+
+![output](https://github.com/said-usj/RMI/blob/master/assets/output.png?raw=true)
